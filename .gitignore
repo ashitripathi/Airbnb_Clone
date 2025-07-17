@@ -25,3 +25,6 @@ dist-ssr
 
 # Vite temporary files
 vite.config.ts.*
+
+# Environment variables
+.env
